@@ -5,7 +5,7 @@
 		<description>Teen Delinquent Background</description>
 		<author url="https://www.dndbeyond.com/backgrounds/58276-teen-delinquent">DND Beyond</author>
 		<update version="0.0.5">
-			<file name="background-teen-delinquent.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/core/players-handbook/backgrounds/background-urchin.xml" />
+			<file name="background-teen-delinquent.xml" url="https://raw.githubusercontent.com/brightoff/aurora-builder/master/backgrounds/teen-delinquent.xml" />
 		</update>
 	</info>
 
